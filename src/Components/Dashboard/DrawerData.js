@@ -1,5 +1,6 @@
 import * as React from "react";
 import HomeIcon from '@mui/icons-material/Home';
+import InfoIcon from '@mui/icons-material/Info';
 
 const DrawerData = [
   {
@@ -10,7 +11,7 @@ const DrawerData = [
   {
     title: "About Us",
     path: "/aboutus",
-    icon: <HomeIcon />,
+    icon: <InfoIcon />,
   },
 ]
 

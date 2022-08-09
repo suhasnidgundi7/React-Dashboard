@@ -1,6 +1,6 @@
 import { Box, Container, Grid, Paper, Toolbar } from "@mui/material";
 import React from "react";
-import { MyAppBar} from "../Components/Dashboard";
+import { MyAppBar} from "../Components/Dashboard/Dashboard";
 
 const Home = () => {
   return (
